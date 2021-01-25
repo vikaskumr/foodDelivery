@@ -18,7 +18,7 @@ module.exports = function (app) {
       {
         template: {
           method: 'GET',
-          url: `https://maps.googleapis.com/maps/api/geocode/json?&address='{address}'&key=AIzaSyBZ01ny8c0kCRopjPwg_8fkoaWhn7SEnWA`,
+          url: `https://maps.googleapis.com/maps/api/geocode/json?&address='{address}'&key=`,
           headers: {},
           options: {},
           responsePath: ''
